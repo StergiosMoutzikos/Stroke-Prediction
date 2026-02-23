@@ -4,7 +4,7 @@ A machine learning study comparing four classification algorithms for predicting
 
 > **Course:** Data Warehouses and Data Mining  
 > **Institution:** Ionian University — Department of Informatics  
-> **Author:** Στέργιος Μουτζίκος (inf2021149)  
+> **Author:** Στέργιος Μουτζίκος   
 > **Date:** May 2025
 
 ---
