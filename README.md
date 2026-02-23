@@ -36,10 +36,10 @@ stroke-prediction/
 ├── requirements.txt               # Python dependencies
 ├── Stroke_Prediction.pdf          # Notebook exported as PDF
 ├── Stroke_prediction_paper.pdf    # Full academic paper (Greek)
-├── data/
-│   ├── stroke-data.csv            # Original raw dataset
-│   ├── stroke-data_updated.csv    # Preprocessed dataset
-│   └── stroke-data-undersampled.csv # Balanced dataset (undersampled)
+├
+│├── stroke-data.csv            # Original raw dataset
+│├── stroke-data_updated.csv    # Preprocessed dataset
+│├── stroke-data-undersampled.csv # Balanced dataset (undersampled)
 └── README.md
 ```
 
