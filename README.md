@@ -68,28 +68,6 @@ stroke-prediction/
 
 ---
 
-##  How to Run
-
-**1. Clone the repository**
-```bash
-git clone https://github.com/YOUR_USERNAME/stroke-prediction.git
-cd stroke-prediction
-```
-
-**2. Install dependencies**
-```bash
-pip install -r requirements.txt
-```
-
-**3. Launch the notebook**
-```bash
-jupyter notebook Stroke_Prediction.ipynb
-```
-
-> Make sure the CSV files are in the same directory as the notebook (or update the file paths inside).
-
----
-
 ## 📦 Requirements
 
 ```
