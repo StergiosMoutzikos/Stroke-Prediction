@@ -73,7 +73,7 @@ stroke-prediction/
 
 ---
 
-## 📦 Requirements
+##  Requirements
 
 ```
 numpy
@@ -92,7 +92,7 @@ jupyter
 
 ##  Report
 
-The full academic paper is available in [`Stroke_prediction_paper.pdf`](./Stroke_prediction_paper.pdf), covering:
+The full academic paper is available in [`Stroke_prediction_paper.pdf`](./Paper/Stroke_prediction_paper.pdf), covering:
 - Literature review on stroke prediction with ML
 - Detailed methodology and preprocessing steps
 - Experimental results and model comparison
