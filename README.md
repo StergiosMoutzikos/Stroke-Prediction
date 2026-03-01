@@ -32,15 +32,20 @@ Stroke is one of the leading causes of death and long-term disability worldwide.
 
 ```
 stroke-prediction/
-├── Stroke_Prediction.ipynb        # Main Jupyter notebook (full pipeline)
-├── requirements.txt               # Python dependencies
-├── Stroke_Prediction.pdf          # Notebook exported as PDF
-├── Stroke_prediction_paper.pdf    # Full academic paper (Greek)
-├
-│├── stroke-data.csv            # Original raw dataset
-│├── stroke-data_updated.csv    # Preprocessed dataset
-│├── stroke-data-undersampled.csv # Balanced dataset (undersampled)
-└── README.md
+└── Code/
+    ├── Stroke_Prediction.ipynb        # main code
+    └── Stroke_Prediction.pdf          # notebook as PDF
+└── Data/
+    ├── stroke-data.csv                # Original raw dataset
+    ├── stroke-data_updated.csv        # Preprocessed dataset
+    └── stroke-data-undersampled.csv   # Balanced dataset (undersampled)
+└── Paper/
+    ├── Stroke_prediction_paper.pdf 
+    └── Stroke_prediction.tex
+├── README.md
+├── requirements.txt                                  
+
+
 ```
 
 ---
